@@ -7,9 +7,10 @@ function App() {
 return (
  
   <div className='App'>
-    <Header/>
+    <Header />
     <main>
-    <Section/>
+    <Section   title="Meus Jogos" subTitle="Os games que eu mais curto jogar!"/>
+    <Section   title="Meus Jogos"/>
   </main>
   </div>
 
